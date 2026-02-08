@@ -1,5 +1,5 @@
 # 💫 About Me:
-Full-stack web developer skilled in JavaScript, specializing in building responsive, user-friendly applications with React and Node.js.
+Front-end focused web developer with full-stack experience, specializing in React and JavaScript.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/andrewtravis0) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/storm) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/storm_ttv) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:andrewattemptscode@gmail.com) 
